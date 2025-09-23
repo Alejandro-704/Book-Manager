@@ -1,0 +1,10 @@
+The Way of Kings,Brandon Sanderson,20.00,2010,1007,Yes,Yes
+Words of Radiance,Brandon Sanderson,28.35,2014,1087,Yes,Yes
+Test Boook,Alejandro Montoya,40.99,2003,704,Yes,Yes
+Oathbringer,Brandon Sanderson,15.99,2017,1243,Yes,Yes
+Rhythm of War,Brandon Sanderson,25.67,2020,1219,Yes,Yes
+New Spring,Robert Jordan,13.99,2004,304,No,No
+The Eye of the World,Robert Jordan,11.99,1990,784,No,Yes
+The Great Hunt,Robert Jordan,13.29,1990,672,No,No
+The Dragon Reborn,Robert Jordan,18.99,1991,624,No,No
+The Shadow Rising,Robert Jordan,19.36,1992,940,No,No
